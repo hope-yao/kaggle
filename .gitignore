@@ -1,3 +1,5 @@
 *.zip
 *.mat
 *.npz
+*.npy
+*.png
